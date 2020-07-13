@@ -1,5 +1,5 @@
 # DataProject1_Repo
-Master Branch for Project 1 of WUSTL Bootcamp
+Flight Destinations for Project 1 of WUSTL Bootcamp
 
 
 Using flight data provided by the Bureau of Transportation, our goal is to determine the most popular destinations by season. Other questions we plan on answering are; what season has the most passengers has flying, what airport is the busiest and is that airport a common layover location.
