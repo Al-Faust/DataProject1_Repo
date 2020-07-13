@@ -1,4 +1,4 @@
-# DataProject1_Repo
+# Flight Destinations
 Flight Destinations for Project 1 of WUSTL Bootcamp
 
 
